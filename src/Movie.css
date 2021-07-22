@@ -21,7 +21,7 @@
     background-color: white;
     padding: 25px;
     margin: 40px;
-    width: 480px;
+    width: 450px;
     height: 200px;
     filter: drop-shadow(0px 2px 6px #a7a7a7);
 }
@@ -37,8 +37,8 @@
 
 .genres{
     list-style: none;
-    margin: 7px;
-    font-size: 15px;
+    margin: 5px;
+    font-size: 13px;
     color: rgb(87, 87, 87);
 }
 .genres li{
@@ -49,4 +49,5 @@
 .movie__summary{
     color: rgb(184, 184, 184);
     font-style: oblique;
+    margin: 8px;
 }
